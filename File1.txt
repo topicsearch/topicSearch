@@ -1,1 +1,2 @@
 This is file1.txt under topicSearch
+test it. add more content.
